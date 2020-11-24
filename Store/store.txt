@@ -1,0 +1,35 @@
+Data of product with id: 4
+Brand: Nike
+Model: Air Max
+Category: Shoes
+Price: 180
+Count: 11
+
+Data of product with id: 5
+Brand: Nike
+Model: Air Max
+Category: Shoes
+Price: 240
+Count: 7
+
+Data of product with id: 6
+Brand: Adidas
+Model: Sport+
+Category: Shoes
+Price: 200
+Count: 3
+
+Data of product with id: 7
+Brand: Nike
+Model: Jordan
+Category: Shoes
+Price: 330
+Count: 2
+
+Data of product with id: 8
+Brand: Adidas
+Model: pesho
+Category: Shoes
+Price: 150
+Count: 5
+
